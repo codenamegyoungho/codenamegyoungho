@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamegyoungho)](https://github.com/codenamegyoungho/codenamegyoungho)
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Codename%20gyeongho&fontSize=90" />
 
