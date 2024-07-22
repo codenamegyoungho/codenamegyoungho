@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamegyoungho)](https://github.com/anuraghazra/github-readme-stats)
+<a><img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=python&logoColor=3776AB"/></a>
+
 
 <!--
 **codenamegyoungho/codenamegyoungho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
