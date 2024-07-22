@@ -1,5 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Codename%20gyeongho&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=rudgh%2099&fontSize=90" />
+<p>
+  <img src="https://img.shields.io/badge/Java-006600?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Linux-FF9E0F?style=flat-square&logo=Linux&logoColor=white"/></a>
+</p>
 
 
 <!--
