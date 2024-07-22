@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamegyoungho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamegyoungho)](https://github.com/codenamegyoungho/codenamegyoungho)
 <a>https://img.shields.io/badge/any_text-you_like-blue</a>
 
 
