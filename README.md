@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamegyoungho)](https://github.com/codenamegyoungho/codenamegyoungho)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=151515&height=300&section=header&text=Welcome%20here&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20myRepository&fontSize=90" />
 
 
 
